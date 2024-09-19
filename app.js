@@ -1,6 +1,6 @@
 const countdown = () => {
   // the deadline date
-  const endDate = new Date("September 19, 2024 00:00:00").getTime();
+  const endDate = new Date("September 19, 2026 00:00:00").getTime();
   //   today's date
   const now = new Date().getTime();
   //   countdown logic
